@@ -1,0 +1,32 @@
+body {
+    padding-top: 3.5rem;
+}
+
+.navbar {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+main {
+    padding-top: 40px;
+}
+.btn-primary:hover {
+    background-color: purple;
+    border-color: purple;
+}
+
+.card-footer.no-background {
+    background-color: transparent;
+}
+.card-footer.no-border {
+    border-top: none;
+}
+.card-title.bold {
+    font-weight: bold;
+}
+.card-footer {
+    border-top: none;
+}
+.card {
+    border: none;
+}
